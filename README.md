@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @slytechiefrommagentashore
+- 👋 Hi, I’m Satvika aka - @slytechiefrommagentashore
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java and french language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java and french languages
+- my hobbies are reading books,playing chess...etc
+
 
 <!---
 slytechiefrommagentashore/slytechiefrommagentashore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
