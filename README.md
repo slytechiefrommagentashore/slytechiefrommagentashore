@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satvika aka - @slytechiefrommagentashore
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java language
+- 🌱 I’m currently learning javascript.
 - my hobbies are reading books,playing chess...etc
 
 
