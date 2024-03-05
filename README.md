@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Satvika aka - @slytechiefrommagentashore
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Machine learning.
-- my hobbies are reading books,playing chess...etc
+- my hobbies are reading books,playing chess,watching anime,series...etc
 
 
 <!---
