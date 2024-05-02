@@ -2,6 +2,8 @@
 - 👋 Hi, I’m Satvika aka - @slytechiefrommagentashore<br>- 👀 I’m interested in programming<br>- 🌱 I’m currently learning Machine learning.<br>- my hobbies are reading books,playing chess,watching anime,series...etc
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=forklao&label=Profile%20views&color=0e75b6&style=flat" alt="forklao" /> </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvika-vasireddy-b215b622a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/slytechiee) 
 
