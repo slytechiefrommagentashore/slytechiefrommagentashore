@@ -17,5 +17,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=slytechiefrommagentashore&icon=3&color=6)](https://visitcount.itsvg.in)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=slytechiefrommagentsshoreProfile%20views&color=0e75b6&style=flat" alt="slytechiefrommagentsshore" /> </p>
