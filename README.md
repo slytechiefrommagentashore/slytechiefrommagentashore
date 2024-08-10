@@ -24,10 +24,10 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
 </a>
 </div>
-</details>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=slytechiefrommagentashore&icon=3&color=6)](https://visitcount.itsvg.in)
-
+</details>
