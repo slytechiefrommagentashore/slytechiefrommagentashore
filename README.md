@@ -1,4 +1,4 @@
-# 💫 Hello there, About Me:
+# 💫 Hello there, About Me: 
 - 👋 Hi, I’m Satvika aka - @slytechiefrommagentashore<br>- 👀 I’m interested in programming<br>- 🌱 I’m currently learning abt GenAI.<br>- my hobbies are reading books,playing chess,watching anime,series...etc
 
 ## 🌐 Socials:
