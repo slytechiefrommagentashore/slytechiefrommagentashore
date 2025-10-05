@@ -24,6 +24,14 @@
 </a>
 </div>
 </details>
+<details>
+  <summary><b>Holopin (25) Badges 🪶</b></summary><br>
+  <p align="center">
+    <a href="https://holopin.io/@slytechie">
+      <img src="https://holopin.me/slytechie" alt="@slytechie's Holopin badges" />
+    </a>
+  </p>
+</details>
 
 ---
 ### ✍️ Random Dev Quote
