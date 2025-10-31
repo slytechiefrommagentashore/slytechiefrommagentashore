@@ -1,5 +1,5 @@
 # 💫 Hello there, About Me: 
--👋 Hi, I’m Satvika aka - @slytechiefrommagentashore<br>- 👀 I’m interested in programming<br>- 🌱 I’m currently learning abt GenAI.<br>- my hobbies are reading books,playing chess,watching anime,series...etc <br> Want to check my [portfolio](https://vasireddy-satvika.vercel.app/)
+-👋 Hi, I’m Satvika aka - @slytechiefrommagentashore<br>- 👀 I’m interested in programming<br>- 🌱 I’m currently learning abt GenAI.<br>- my hobbies are reading books,playing chess,watching anime,series...etc <br>.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvika-vasireddy-b215b622a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/slytechiee) 
